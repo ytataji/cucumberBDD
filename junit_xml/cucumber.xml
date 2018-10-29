@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="169.850386">
+<testcase classname="Booking a hotel through RLH" name="Book a hotel" time="169.850386">
+<system-out><![CDATA[Given user is on RLH website................................................passed
+When user enters "Red lion hotel port angeles"..............................passed
+Then choose hotel in entered location.......................................passed
+Then select hotel from different options....................................passed
+Then Fill the form to book a hotel..........................................passed
+And Get the price details...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
